@@ -11,8 +11,8 @@ This is a basic html css project.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- solution URL: [solution URL](https://github.com/rizard1/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://rizard1.github.io/qr-code-component-main/)
 
 ### Built with
 
@@ -24,6 +24,5 @@ This is a basic html css project.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@rizard1](https://www.frontendmentor.io/profile/rizard1)
+- Bluesky - [@rizard1.bsky.social](https://bsky.app/profile/rizard1.bsky.social)
