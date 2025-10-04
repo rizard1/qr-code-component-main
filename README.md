@@ -11,8 +11,8 @@ This is a basic html css project.
 
 ### Links
 
-- solution URL: [solution URL](https://github.com/rizard1/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://rizard1.github.io/qr-code-component-main/)
+- solution URL: [Solution URL](https://github.com/rizard1/qr-code-component-main)
+- Live Site URL: [Live site URL](https://rizard1.github.io/qr-code-component-main/)
 
 ### Built with
 
